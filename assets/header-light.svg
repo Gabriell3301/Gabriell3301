@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="128" viewBox="0 0 960 128" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">G / 3301</title>
+  <desc id="desc">Assinatura em cinzento e azul-acinzentado sobre fundo claro.</desc>
+  <rect width="960" height="128" rx="8" fill="#F4F6F8"/>
+  <path d="M32 32V96" stroke="#607D96" stroke-width="3"/>
+  <text x="56" y="81" fill="#18212A" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="600" letter-spacing="-1">G<tspan fill="#607D96" font-weight="300"> / </tspan><tspan fill="#526170" font-size="34" font-weight="400" letter-spacing="2">3301</tspan></text>
+  <path d="M326 64H928" stroke="#D4DDE5"/>
+  <path d="M864 64H928" stroke="#607D96" stroke-width="2"/>
+</svg>
